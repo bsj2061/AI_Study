@@ -1,1 +1,2 @@
-# AI_Study
+# RL(Reinforcement Learning)
+
