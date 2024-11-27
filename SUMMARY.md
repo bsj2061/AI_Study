@@ -37,7 +37,6 @@
     * [Eigenvalue/Eigenvector](math/linear-algebra/eigenvalue-eigenvector.md)
     * [Transposed Matrix](math/linear-algebra/transposed-matrix.md)
     * [argmin/argmax](math/linear-algebra/argmin-argmax.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
+* [Paper](paper/README.md)
+  * [Computer Vision](paper/computer-vision.md)
+* [ImageNet Classification with Deep Convolutional Neural Networks](imagenet-classification-with-deep-convolutional-neural-networks.md)
